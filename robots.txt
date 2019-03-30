@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beireozeip.joryburson.com/sitemap.xml
